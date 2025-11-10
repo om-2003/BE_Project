@@ -1,10 +1,15 @@
 🚀 Key Features
 
 🎧 Speech-to-Text Conversion – Extracts and transcribes English audio from video using advanced speech recognition.
+
 🌐 Language Translation – Translates transcribed English text into the selected Indian regional language using NLP models.
+
 🗣️ Text-to-Speech (TTS) Dubbing – Generates realistic, human-like regional voiceovers for the translated text.
+
 🎬 Automatic Lip-Sync and Audio Merging – Synchronizes generated audio with the video timeline for a natural viewing experience.
+
 🧠 AI/ML Integration – Uses machine learning for improving translation accuracy and voice tone consistency.
+
 🪄 User Interface – Simple and intuitive interface to upload videos, select target language, and export dubbed output.
 
 🛠️ Tech Stack
